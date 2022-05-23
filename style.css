@@ -1,0 +1,16 @@
+h1 {
+    color: purple;
+    background-color: black;
+    font-weight: italic;
+    font-family: Times New roman, lucida Console, Helvetica, fantasy;
+    height: atuo;
+    text-align: center;
+    margin: auto;
+    width: 200px;
+}
+
+.recipes {
+    color: purple;
+    margin: auto;
+    width: 18%;
+}
